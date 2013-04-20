@@ -16,3 +16,4 @@ print 'Got connection from', addr
 while True:
    msg = raw_input('Scanati')
    c.send(msg)
+ 
