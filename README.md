@@ -1,4 +1,5 @@
-Iulian Vasilovici
-Categorie: Software
 Nume proiect: PI850
-Descriere: Scaner cod bare linie automatizare/sortare
+Scurta descriere: Scaner cod bare linie automatizare/sortare
+Categorie: Software
+Echipa: Iulian Vasilovici
+Link Github: https://github.com/Neniciu/rasp
